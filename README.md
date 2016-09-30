@@ -20,6 +20,7 @@ Leitner, Helmut | Pattern Theory: Introduction and Perspectives on the Tracks of
 
 - [cloud computing design patterns](http://cloudpatterns.org/)
 - [microservice pattern language](http://microservices.io/patterns/index.html)
+- [refactoring patterns](http://refactoring.com/catalog/)
 
 ## Books
 
