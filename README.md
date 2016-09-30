@@ -2,7 +2,15 @@
 
 References resources which collect patterns or relate patterns in pattern languages
 
-## (Introductional) Books to pattern theory
+## Books about system theory
+
+It is easier to understand pattern languages and patterns related to overall contexts which can be generically analysed using systems theory.
+
+Author(s) | Title | Publisher | Edition | Year
+--- | --- | --- | --- | ---
+Meadows, Donella H. | Thinking in Systems: A Primer | Chelsea Green Publishing | 1st | 2008
+
+## Books about pattern theory
 
 Author(s) | Title | Publisher | Edition | Year
 --- | --- | --- | --- | ---
