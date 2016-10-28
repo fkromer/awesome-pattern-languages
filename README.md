@@ -29,6 +29,7 @@ Author(s) | Title | Publisher | Edition | Year
 Alexander, Christopher | A Pattern Language: Towns, Buildings, Construction | Oxford University Press | 1st | 1978
 Bergin, Joseph | Writing Patterns: software, organizational, pedagogical | Slant Flying Press | agile | 2013
 Buschmann, Frank et al. | Pattern-Oriented Software Architecture (Vol. 1): A System of Patterns | John Wiley & Sons Ltd. | 7th | 2001
+Christensen, B. Christensen | Flexible, Reliable Software: Using Patterns and Agile Development | Chapman & Hall/CRC | 1th | 2010
 Coplien, J. and Schmidt, D. | Pattern Languages of Program Design 1 | Addison-Wesley Longman| | 1995
 Douglass, Bruce Powel | Real-Time Design Patterns: Robust Scalable Architecture for Real-Time Systems | Elsevier | 1th | 2002
 Douglass, Bruce Powel | Design Patterns for Embedded Systems in C: An Embedded Software Engineering Toolkit | Elsevier | 1th | 2011
