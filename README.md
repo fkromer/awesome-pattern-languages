@@ -35,6 +35,7 @@ Coplien, J. and Schmidt, D. | Pattern Languages of Program Design 1 | Addison-We
 Douglass, Bruce Powel | Real-Time Design Patterns: Robust Scalable Architecture for Real-Time Systems | Elsevier | 1th | 2002
 Douglass, Bruce Powel | Design Patterns for Embedded Systems in C: An Embedded Software Engineering Toolkit | Elsevier | 1th | 2011
 Erl, Thomas et al. | Cloud Computing Design Patterns | Prentice Hall | 1th | 2015
+Fowler, Martin | Analysis Patterns: Reusable Object Models | Addison-Wesley Professional | 1th | 1996
 Fowler, Martin | Patterns of Enterprise Application Architecture | Addison-Wesley Professional | 1th | 2002
 Gamma, Erich et al. | Design Patterns: Elements of Reusable Object-Oriented Software | Addison-Wesley | 1th | 1998
 Giridhar, Chetan | Learning Python Design Patterns | Packt Publishing | 2nd | 2016
