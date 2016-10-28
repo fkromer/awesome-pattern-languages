@@ -20,6 +20,7 @@ Leitner, Helmut | Pattern Theory: Introduction and Perspectives on the Tracks of
 
 - [cloud computing design patterns](http://cloudpatterns.org/)
 - [deep learning patterns](http://www.deeplearningpatterns.com/)
+- ["A Tour of Machine Learning Algorithms"](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 - [microservice pattern language](http://microservices.io/patterns/index.html)
 - [refactoring patterns](http://refactoring.com/catalog/)
 
