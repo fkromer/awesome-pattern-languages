@@ -45,6 +45,7 @@ Kasampalis, Sakis | Mastering Python Design Patterns | Packt Publishing Ltd. | 1
 Martin, Robert C. et al. | Pattern Languages of Program Design 3 | Addison Wesley | | 1997
 Manolescu, Dragos et al.| Pattern Languages of Program Design 5 | Addison Wesley | | 2006
 Meszaros, Gerard | xUnit Test Patterns : Refactoring Test Code | Addison-Wesley | 1st | 2007
+Olsen, Russ | Design Patterns in Ruby | Addison-Wesley Professional | 1st | 2007
 Osherove, Roy | Beautiful Builds: Growing Readable, Maintainable Automated Build Processes | Team Agile Publishing | 1st | 2015
 Schmidt, Douglas et al. | Pattern Oriented Software Architecture (Vol. 2): Patterns for Concurrent and Networked Objects | John Wiley & Sons, Inc. | | 2000
 Tornhill, Adam | Patterns in C | Leanpub | agile | | 2015
