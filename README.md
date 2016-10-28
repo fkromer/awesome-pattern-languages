@@ -36,6 +36,7 @@ Erl, Thomas et al. | Cloud Computing Design Patterns | Prentice Hall | 1th | 201
 Gamma, Erich et al. | Design Patterns: Elements of Reusable Object-Oriented Software | Addison-Wesley | 1th | 1998
 Giridhar, Chetan | Learning Python Design Patterns | Packt Publishing | 2nd | 2016
 Harrison, Neil | Pattern Languages of Program Design 4 | Addison-Wesley Longman | | 1999
+Holub, Allen | Holub on Patterns: Learning Design Patterns by Looking at Code | Apress | 1st | 2005
 Iba, Takashi | Learning Patterns: A Pattern Language for Creative Learning | CreativeShift Lab | 1st | 2014
 Kasampalis, Sakis | Mastering Python Design Patterns | Packt Publishing Ltd. | 1st | 2015
 Martin, Robert C. et al. | Pattern Languages of Program Design 3 | Addison Wesley | | 1997
