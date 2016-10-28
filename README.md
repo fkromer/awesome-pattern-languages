@@ -53,3 +53,9 @@ Tropashko, Vadim | SQL Design Patterns: Expert Guide to SQL Programming | Rampan
 Vlissides, John M. et al. | Pattern Languages of Program Design 2 | Addison Wesley | | 2006
 Withall, Stephen | Software Requirement Patterns | Microsoft Press | | 2007
 Zlobin, Gennadiy | Learning Python Design Patterns | Packt Publishing Ltd. | 1st | 2013
+
+## Papers
+
+Title | Year | Hyperlink
+--- | --- | ---
+Architectural Patterns Revisited – A Pattern Language | 2005 | http://www.cs.rug.nl/paris/papers/EPLOP05.pdf
