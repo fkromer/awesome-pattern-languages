@@ -23,6 +23,9 @@ Leitner, Helmut | Pattern Theory: Introduction and Perspectives on the Tracks of
 - ["A Tour of Machine Learning Algorithms"](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 - [microservice pattern language](http://microservices.io/patterns/index.html)
 - [refactoring patterns](http://refactoring.com/catalog/)
+- [Software Architecture Improvement Patterns - Analyze)](http://aim42.org/apply/page11/index.html) - aim42
+- [Software Architecture Improvement Patterns - Evaluate](http://aim42.org/apply/page12/index.html) - aim42
+- [Software Architecture Improvement Patterns - Improve](http://aim42.org/apply/page19/index.html) - aim42
 
 ## Books
 
