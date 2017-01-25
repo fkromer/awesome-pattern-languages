@@ -18,7 +18,8 @@ Leitner, Helmut | Pattern Theory: Introduction and Perspectives on the Tracks of
 
 ## Websites
 
-- [cloud computing design patterns](http://cloudpatterns.org/)
+- [Cloud Computing Patterns](http://www.cloudcomputingpatterns.org/) - provides patterns for building applications making use of the Cloud
+- [cloud computing design patterns](http://cloudpatterns.org/) - provides patterns for building a Cloud
 - [deep learning patterns](http://www.deeplearningpatterns.com/)
 - ["A Tour of Machine Learning Algorithms"](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 - [microservice pattern language](http://microservices.io/patterns/index.html)
@@ -39,6 +40,7 @@ Coplien, J. and Schmidt, D. | Pattern Languages of Program Design 1 | Addison-We
 Douglass, Bruce Powel | Real-Time Design Patterns: Robust Scalable Architecture for Real-Time Systems | Elsevier | 1th | 2002
 Douglass, Bruce Powel | Design Patterns for Embedded Systems in C: An Embedded Software Engineering Toolkit | Elsevier | 1th | 2011
 Erl, Thomas et al. | Cloud Computing Design Patterns | Prentice Hall | 1th | 2015
+Fehling, C. et al. | [Cloud Computing Patterns - Fundamentals to Design, Build, and Manage Cloud Applications](http://www.springer.com/de/book/9783709115671) | Springer | 1st
 Fowler, Martin | Analysis Patterns: Reusable Object Models | Addison-Wesley Professional | 1th | 1996
 Fowler, Martin | Patterns of Enterprise Application Architecture | Addison-Wesley Professional | 1th | 2002
 Gamma, Erich et al. | Design Patterns: Elements of Reusable Object-Oriented Software | Addison-Wesley | 1th | 1998
@@ -64,3 +66,4 @@ Zlobin, Gennadiy | Learning Python Design Patterns | Packt Publishing Ltd. | 1st
 Title | Year | Hyperlink
 --- | --- | ---
 Architectural Patterns Revisited – A Pattern Language | 2005 | http://www.cs.rug.nl/paris/papers/EPLOP05.pdf
+Cloud Data Patterns for Confidentiality | 2012 | https://www.researchgate.net/publication/230688724_Cloud_Data_Patterns_for_Confidentiality
