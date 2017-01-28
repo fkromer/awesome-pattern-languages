@@ -18,6 +18,7 @@ Leitner, Helmut | Pattern Theory: Introduction and Perspectives on the Tracks of
 
 ## Websites
 
+- [Angular Test Patterns](https://github.com/daniellmb/angular-test-patterns)
 - [Cloud Computing Patterns](http://www.cloudcomputingpatterns.org/) - provides patterns for building applications making use of the Cloud
 - [cloud computing design patterns](http://cloudpatterns.org/) - provides patterns for building a Cloud
 - [deep learning patterns](http://www.deeplearningpatterns.com/)
