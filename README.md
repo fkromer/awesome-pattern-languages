@@ -67,3 +67,4 @@ Title | Year | Hyperlink
 --- | --- | ---
 Architectural Patterns Revisited – A Pattern Language | 2005 | http://www.cs.rug.nl/paris/papers/EPLOP05.pdf
 Cloud Data Patterns for Confidentiality | 2012 | https://www.researchgate.net/publication/230688724_Cloud_Data_Patterns_for_Confidentiality
+A Pattern-Based Approach for GUI Modeling and Testing | 2013 | http://paginas.fe.up.pt/~apaiva/PBGT/PBGT_material/ISSRE2013.pdf
