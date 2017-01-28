@@ -61,6 +61,12 @@ Vlissides, John M. et al. | Pattern Languages of Program Design 2 | Addison Wesl
 Withall, Stephen | Software Requirement Patterns | Microsoft Press | | 2007
 Zlobin, Gennadiy | Learning Python Design Patterns | Packt Publishing Ltd. | 1st | 2013
 
+## Dissertations
+
+Title | Year | Hyperlink
+--- | --- | ---
+Pattern-Based GUI Testing | 2014 | https://sigarra.up.pt/feup/pt/pub_geral.show_file?pi_gdoc_id=411602
+
 ## Papers
 
 Title | Year | Hyperlink
