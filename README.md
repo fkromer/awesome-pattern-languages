@@ -23,6 +23,7 @@ Leitner, Helmut | Pattern Theory: Introduction and Perspectives on the Tracks of
 - [cloud computing design patterns](http://cloudpatterns.org/) - provides patterns for building a Cloud
 - [deep learning patterns](http://www.deeplearningpatterns.com/)
 - ["A Tour of Machine Learning Algorithms"](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+- [Java Design Patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [microservice pattern language](http://microservices.io/patterns/index.html)
 - [refactoring patterns](http://refactoring.com/catalog/)
 - [Software Architecture Improvement Patterns - Analyze)](http://aim42.github.io/#_patterns_and_practices_for_analysis) - aim42
