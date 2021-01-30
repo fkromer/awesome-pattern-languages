@@ -29,7 +29,7 @@ Leitner, Helmut | Pattern Theory: Introduction and Perspectives on the Tracks of
 - [Software Architecture Improvement Patterns - Analyze)](http://aim42.github.io/#_patterns_and_practices_for_analysis) - aim42
 - [Software Architecture Improvement Patterns - Evaluate](http://aim42.github.io/#_pattern_and_practices_for_evaluation) - aim42
 - [Software Architecture Improvement Patterns - Improve](http://aim42.github.io/#Improve) - aim42
-- [Test Automation Patterns](https://testautomationpatterns.wikispaces.com/Test+Automation+Patterns+Mind+Map) - MindMap Pattern Overview
+- [Test Automation Patterns](https://testautomationpatterns.org/wiki/index.php/Test_Automation_Patterns_Mind_Map) - MindMap Pattern Overview
 
 ## Books
 
